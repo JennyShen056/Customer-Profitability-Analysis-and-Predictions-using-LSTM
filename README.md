@@ -28,10 +28,9 @@ Our exploratory data analysis began by checking these emotional categories for b
 
 Below are the results of our model evaluations. We find that both models perform reasonably well, with some struggles in specific emotions:
 
-<img src="/confusion matrix.pdf" width="700"/>
-<img width="600" alt="Confusion Matrix of Naive Bayes Model and LSTM Model for Real-world Data" src="https://github.com/JennyShen056/Customer-Profitability-Analysis-and-Predictions-using-LSTM/blob/main/confusion%20matrix.pdf">
+<img src="/confusion matrix.png" width="700"/>
 
-<img src="/Training loss of LSTM.pdf" width="700"/>
+<img src="/training loss of LSTM.png" width="700"/>
 
 ## References:
 Ale, L., Zhang, N., Wu, H., Chen, D., & Han, T. (2019). Online Proactive Caching in Mobile Edge Computing Using Bidirectional Deep Recurrent Neural Netwoek. IEEE Internet of Things Journal, (6), 5520-5530. 
