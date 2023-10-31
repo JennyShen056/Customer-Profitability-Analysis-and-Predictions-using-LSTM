@@ -28,15 +28,9 @@ Our exploratory data analysis began by checking these emotional categories for b
 
 Below are the results of our model evaluations. We find that both models perform reasonably well, with some struggles in specific emotions:
 
-<img src="/20_intermediate_files/ML VGG.png" width="700"/>
+<img src="/confusion matrix.pdf" width="700"/>
 
-<img src="/20_intermediate_files/ML Resnet.png" width="700"/>
-
-## Saliency Maps
-
-Once the model evaluation was complete, we generated saliency maps of the outcomes to compare the areas of importance for detecting specific emotions in our images. Below is a comparison of the saliency map for predictions created from all facial expressions determined by VGG-16 and ResNet50:
-
-<img src="/20_intermediate_files/ML Saliency Maps.png" width="600"/>
+<img src="/Training loss of LSTM.pdf" width="700"/>
 
 ## References:
 Ale, L., Zhang, N., Wu, H., Chen, D., & Han, T. (2019). Online Proactive Caching in Mobile Edge Computing Using Bidirectional Deep Recurrent Neural Netwoek. IEEE Internet of Things Journal, (6), 5520-5530. 
