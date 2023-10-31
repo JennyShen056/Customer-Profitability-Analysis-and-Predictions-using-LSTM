@@ -19,17 +19,6 @@ The paper studies and analyzes the dynamic prediction of customer profitability 
 
 To further target customers for marketing, we trained a Recurrent Neural Network model and found that this machine learning model predicts the profitability of retail store customers with high accuracy. Businesses can use this predicted data for targeted marketing. For customers who are about to churn, they can use promotions to prevent their loss, and for customers whose profitability will increase in the future, they can use sales tactics to further enhance their profitability and so on.
 
-## Project Overview
-
-The onset of the COVID-19 Pandemic introduced new wrinkles to identifying emotions from observing faces. As much of the world began to socially distance or adopt facemasks as a standard practice, questions about the possible impacts on human interaction and emotional inference naturally emerged. While this challenge has already existed in certain cultures where the wearing of items that obstruct a part of a person’s face might be tradition, the COVID-19 pandemic brought this question to a whole new scale.
-
-One of the most notable areas where this question extends today is the more prevalent use of webcams and virtual meetings. Everyone has experienced a virtual meeting where a colleague’s face might be partially blocked, poorly positioned in the view pane, or obstructed by other issues. Reading the audience’s emotions can be challenging in these environments, a critical task in human communication. With this in mind, this project will seek to gain a greater understanding of where computer vision might be able to augment human interpretation when a portion of the face is obstructed and where a model’s limitations are. 
-
-Below is a represnetation of our experimental workflow:
-
-<img src="/20_intermediate_files/ML Project Flowchart.jpg" width="800"/>
-
-
 ## Data
 
 The dataset used in this article comes from an online retailer registered in the UK (Chen et al., 2012). The dataset contains 11 variables, and the attributes and specific meanings of the variables are shown in Table 1. It includes all transactions that occurred from 2009 to 2011. From December 2009 to December 2011, a total of 53,628 valid transactions were generated, involving purchases of a total of 5,305 products by 5,943 consumers.
@@ -66,4 +55,3 @@ Chen, D., Guo, K., & Li, B. (2019). Predicting Customer Profitability Dynamicall
 Januszewski, F. (2011). Possible Applications of Instruments of Measurement of the Customer Value in the operations of Logistcis Companies. Scientific Journal of Logistics, (7), 17-25. 
 
 Manaswi, N.K. (2018). RNN and LSTM. Deep Learning with Application Using Python, Apress. 
-![image](https://github.com/JennyShen056/Customer-Profitability-Analysis-and-Predictions-using-LSTM/assets/112578566/fc948f1b-0a6b-4107-becb-4a5f80861388)
