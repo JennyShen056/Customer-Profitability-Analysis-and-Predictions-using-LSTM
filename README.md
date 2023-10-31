@@ -22,7 +22,7 @@ The dataset used in this article comes from an online retailer registered in the
 
 Based on the RFM values at the end of each time period, relevant customers were divided into five groups (clusters) using the k-means clustering algorithm. Each cluster contains a group of customers with similar RFM values. Then, these RFM values are aggregated to determine a unique single-value RFM score for all customers within the same cluster.
 
-<img src="/visualization_output/cluster.png" width="500"/>
+<img src="/visualization_output/cluster.png" width="700"/>
 
 ## Model Results
 
