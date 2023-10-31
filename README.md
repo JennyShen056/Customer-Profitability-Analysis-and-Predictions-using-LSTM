@@ -24,11 +24,13 @@ Our exploratory data analysis began by checking these emotional categories for b
 
 ## Model Results
 
-Below are the results of our model evaluations. We find that both models perform reasonably well, with some struggles in specific emotions:
+We take the data from the last timestamp as the test set and use the data from the previous time periods as the training set, resulting in the training curve shown in the figure below. At the same time, we validate the model's performance on the test set, and the training accuracy obtained is: 0.9665. The confusion matrix is shown in the following figure:
 
 <img src="/visualization_output/confusion matrix.png" width="500"/>
 
 <img src="/visualization_output/training loss of LSTM.png" width="500"/>
+
+From above, it can be seen that using LSTM for prediction can achieve a very high accuracy rate. Therefore, using recurrent neural networks can precisely predict customer profitability.
 
 ## References:
 Ale, L., Zhang, N., Wu, H., Chen, D., & Han, T. (2019). Online Proactive Caching in Mobile Edge Computing Using Bidirectional Deep Recurrent Neural Netwoek. IEEE Internet of Things Journal, (6), 5520-5530. 
