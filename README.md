@@ -29,6 +29,7 @@ Our exploratory data analysis began by checking these emotional categories for b
 Below are the results of our model evaluations. We find that both models perform reasonably well, with some struggles in specific emotions:
 
 <img src="/confusion matrix.pdf" width="700"/>
+<img width="600" alt="Confusion Matrix of Naive Bayes Model and LSTM Model for Real-world Data" src="https://github.com/JennyShen056/Customer-Profitability-Analysis-and-Predictions-using-LSTM/blob/main/confusion%20matrix.pdf">
 
 <img src="/Training loss of LSTM.pdf" width="700"/>
 
