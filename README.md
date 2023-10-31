@@ -20,7 +20,7 @@ The dataset used in this article comes from an online retailer registered in the
 
 ## Exploratory Data Analysis
 
-Our exploratory data analysis began by checking these emotional categories for balance and visual sampling to ensure that the author assigned the categories correctly. The visualization of the category balance shows some skew, while the visual inspection found multiple instances that the team considered either an erroneous assignment or a potentially duplicated image. A team member conducted an image-by-image review of the dataset to correct the erroneous categorization in the base dataset. This resulted in a slight alteration to the emotional categories, as the overall size of the dataset outweighed the small but concerning number of misclassified images. In total, we identified 1,506 images that had at least one exact copy. Anecdotally, we later observed cases where a face was present in more than one image, but the aspect ratio, zoom, or other features were altered very slightly. These cases escaped our inspection because they were not identical copies of one another. The figure below presents the dataset before and after these steps were taken.
+Based on the RFM values at the end of each time period, relevant customers were divided into five groups (clusters) using the k-means clustering algorithm. Each cluster contains a group of customers with similar RFM values. Then, these RFM values are aggregated to determine a unique single-value RFM score for all customers within the same cluster.
 
 ## Model Results
 
