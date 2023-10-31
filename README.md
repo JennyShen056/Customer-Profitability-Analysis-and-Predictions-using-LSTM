@@ -18,7 +18,7 @@ To further target customers for marketing, we trained a Recurrent Neural Network
 
 The dataset used in this article comes from an online retailer registered in the UK (Chen et al., 2012). The dataset contains 11 variables, and the attributes and specific meanings of the variables are shown in Table 1. It includes all transactions that occurred from 2009 to 2011. From December 2009 to December 2011, a total of 53,628 valid transactions were generated, involving purchases of a total of 5,305 products by 5,943 consumers.
 
-<img src="/visualization_output/data_description.png" width="500"/>
+<img src="/visualization_output/data_description.png" width="600"/>
 
 ## Exploratory Data Analysis
 
