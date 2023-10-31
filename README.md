@@ -1,15 +1,10 @@
 # Customer-Profitability-Analysis-and-Predictions-using-LSTM
-*Using Convolutional Neural Networks to Detect and Analyze Human Emotions from Facial Images*
 
 *Panjie Peng, Jenny (Yiran) Shen*
 
-*Spring 2023*
+*Spring 2022*
 
 ## Documents
-
-**If you want to skip right to the end, [click here for the video presentation](https://youtu.be/l5mb75gyGYE)**
-
-The project proposal can [be found here.](https://github.com/wafiakmal/awesome-ml-group/blob/main/40_docs/IDS705%20Project%20Proposal.pdf)
 
 The final project report can [be found here.](https://github.com/wafiakmal/awesome-ml-group/blob/c9ddff28e2eda9721bee869baeae76d9c15e6385/40_docs/IDS705%20Final%20Report.pdf)
 
