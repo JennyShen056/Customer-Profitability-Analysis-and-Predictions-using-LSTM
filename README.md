@@ -22,15 +22,13 @@ The dataset used in this article comes from an online retailer registered in the
 
 Our exploratory data analysis began by checking these emotional categories for balance and visual sampling to ensure that the author assigned the categories correctly. The visualization of the category balance shows some skew, while the visual inspection found multiple instances that the team considered either an erroneous assignment or a potentially duplicated image. A team member conducted an image-by-image review of the dataset to correct the erroneous categorization in the base dataset. This resulted in a slight alteration to the emotional categories, as the overall size of the dataset outweighed the small but concerning number of misclassified images. In total, we identified 1,506 images that had at least one exact copy. Anecdotally, we later observed cases where a face was present in more than one image, but the aspect ratio, zoom, or other features were altered very slightly. These cases escaped our inspection because they were not identical copies of one another. The figure below presents the dataset before and after these steps were taken.
 
-<img src="/visualizatio_output/confusion matrix.png" width="800"/>
-
 ## Model Results
 
 Below are the results of our model evaluations. We find that both models perform reasonably well, with some struggles in specific emotions:
 
-<img src="/visualization_output/confusion matrix.png" width="700"/>
+<img src="/visualization_output/confusion matrix.png" width="500"/>
 
-<img src="/visualization_output/training loss of LSTM.png" width="700"/>
+<img src="/visualization_output/training loss of LSTM.png" width="500"/>
 
 ## References:
 Ale, L., Zhang, N., Wu, H., Chen, D., & Han, T. (2019). Online Proactive Caching in Mobile Edge Computing Using Bidirectional Deep Recurrent Neural Netwoek. IEEE Internet of Things Journal, (6), 5520-5530. 
