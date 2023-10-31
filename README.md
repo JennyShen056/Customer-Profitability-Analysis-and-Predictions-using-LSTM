@@ -1,12 +1,12 @@
 # Customer-Profitability-Analysis-and-Predictions-using-LSTM
 
-*Panjie Peng, Jenny (Yiran) Shen*
+*Jenny (Yiran) Shen, Panjie Peng*
 
 *Spring 2022*
 
 ## Documents
 
-The final project report can [be found here.](https://github.com/wafiakmal/awesome-ml-group/blob/c9ddff28e2eda9721bee869baeae76d9c15e6385/40_docs/IDS705%20Final%20Report.pdf)
+The final project report can [be found here.](https://github.com/JennyShen056/Customer-Profitability-Analysis-and-Predictions-using-LSTM/blob/main/report_chinese_ver.pdf)
 
 ## Abstract
 
